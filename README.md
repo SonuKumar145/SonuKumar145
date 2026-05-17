@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=python,django,ts,js,react,nextjs,nodejs,bash,linux,docker,aws,git,github,redis,sqlite,nginx,tailwind,postman,vim,debian,raspberrypi,celery,langchain,claudeai&perline=11" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,django,ts,js,react,nextjs,nodejs,bash,linux,docker,aws,git,github,redis,sqlite,nginx,tailwind,postman,vim,debian,raspberrypi,celery,langchain,claudeai&perline=12" />
 </p>
 
 ---
