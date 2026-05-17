@@ -5,7 +5,8 @@
 <h1 align="center">Sonu Kumar</h1>
 
 <p align="center">
-  Full-stack developer building clean web apps, backend systems, and AI-powered workflows. I also enjoy diving into new things.
+  A Developer who loves to build and dive into complex and new things.
+  Currently: AI agents orchestration and workflow domain
 </p>
 
 <p align="center">
@@ -37,7 +38,7 @@
 
 ## 📦 My Public Repositories
 
-### 🔹 OBOTO
+### 🔹 OBOTO (Currently Working on)
 No-code agentic workflow builder with drag-and-drop controls.
 
 ### 🔹 LEGOEYE
