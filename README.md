@@ -8,9 +8,7 @@
   Full-stack developer building clean web apps, backend systems, AI-powered workflows and enjoy diving into new things!
 </p>
 <p align="center">
-  
-  *Currently open to interesting opportunities.*
-  
+  Currently open to interesting opportunities.
 </p>
 
 ---
