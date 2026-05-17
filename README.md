@@ -6,9 +6,10 @@
 
 <p align="center">
   A Developer who loves to build and dive into complex and new things.
+</p>
+<p align="center">
   Currently: AI agents orchestration and workflow domain
 </p>
-
 <p align="center">
   Currently open to interesting opportunities.
 </p>
