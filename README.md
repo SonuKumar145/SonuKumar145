@@ -5,8 +5,9 @@
 <h1 align="center">Sonu Kumar</h1>
 
 <p align="center">
-  Full-stack developer building clean web apps, backend systems, AI-powered workflows and enjoy diving into new things!
+  Full-stack developer building clean web apps, backend systems, and AI-powered workflows. I also enjoy diving into new things.
 </p>
+
 <p align="center">
   Currently open to interesting opportunities.
 </p>
@@ -20,6 +21,7 @@
 ---
 
 ## 🛠 Tech Stack
+
 ### Dev Stack
 - Django, Node.js, and API development
 - React, Next.js, TypeScript, and Tailwind
@@ -30,17 +32,16 @@
 ### AI Stack
 - LangGraph, LangChain
 - OpenAI, Claude
-</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📦 My Public Repositories
 
 ### 🔹 OBOTO
-**NO-CODE** agentic workflow builder through drag and drop!
+No-code agentic workflow builder with drag-and-drop controls.
 
 ### 🔹 LEGOEYE
-Modular Camera Manager system for raspberry pi and picamera for Plug and Play custom scripts. Comes with bydefault Motion Detection script.
+Modular camera manager system for Raspberry Pi and Picamera for plug-and-play custom processing scripts. Comes with a default motion detection script.
 
 ---
 
